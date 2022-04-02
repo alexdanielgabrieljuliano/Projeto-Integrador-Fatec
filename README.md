@@ -1,5 +1,5 @@
 # Projeto-Integrador-Fatec
-Alex Jonathan Silva de Souza
-Daniel José Martins Junior
-Gabriel Vinicius Pagnan
-Juliano Cintra Alves de Almeida
+<br>Alex Jonathan Silva de Souza
+<br>Daniel José Martins Junior
+<br>Gabriel Vinicius Pagnan
+<br>Juliano Cintra Alves de Almeida 
